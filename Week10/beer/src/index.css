@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+li {
+  list-style-type: none;
+}
+
+header {
+  background-color: lightskyblue;
+}
+
+ul {
+  padding-left: 0;
+}
+
+.breweries {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 2%;
+  column-gap: 20px;
+  row-gap: 10px;
+}
+
+.brewery {
+  background-color: #e3f4ff;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.pageButtons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nextButton, .previousButton {
+  background-color: lightskyblue;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 1%;
+}
+
+.menuItem {
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 1%;
+}
+
+.searchBox {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.searchBox h3 {
+  padding: 20px;
+}
+
+.searchBox input {
+  margin: 20px;
+}
+
+footer {
+  background-color: lightskyblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link, a:active, a:visited {
+  color: lightskyblue;
+}
+
+a:hover, a:focus, button:hover, button:focus {
+  color: black;
+  cursor: pointer;
+}
