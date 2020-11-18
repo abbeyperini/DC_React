@@ -10,7 +10,7 @@
 
 **Week 10 Day 2**
 
-- Prompt was to connect a react app to an expresss server and database and perform CRUD operations.
+- Prompt was to connect a react app to an API and perform CRUD operations.
 
 <img src="screenshots/day2Desktop.png" width="900" height="600">
 
