@@ -12,13 +12,14 @@
 
 - Prompt was to connect a react app to an API and perform CRUD operations.
 
-<img src="screenshots/day2Desktop.png" width="900" height="600">
+<img src="screenshots/beerDesktop1.png" width="900" height="600">
+<img src="screenshots/beerDesktop2.png" width="900" height="600">
 
 **Week 10 Day 5**
 
-- Prompt was to create a pie chart using 
+- Prompt was to create a pie chart using react-minimal-pie-chart
 
-<img src="screenshots/day5Desktop.png" width="900" height="600">
+<img src="screenshots/budgetDesktop.png" width="900" height="600">
 
 **Week 11 Day 2**
 
