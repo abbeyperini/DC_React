@@ -12,8 +12,8 @@
 
 - Prompt was to connect a react app to an API and perform CRUD operations.
 
-<img src="screenshots/beerDesktop1.png" width="800" height="500">
-<img src="screenshots/beerDesktop2.png" width="800" height="500">
+<img src="screenshots/beerDesktop1.png" width="800" height="600">
+<img src="screenshots/beerDesktop2.png" width="800" height="600">
 
 **Week 10 Day 5**
 
