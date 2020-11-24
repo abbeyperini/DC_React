@@ -24,3 +24,10 @@
 **Week 11 Day 2**
 
 - Algorithm practice - see file for 7 solved algorithms.
+
+**Week 12 Day 2**
+
+- Prompt was to create a basic to do app with Flutter.
+
+<img src="screenshots/iphoneToDo.png" width="500" height="900">
+<img src="screenshots/androidToDo.png" width="500" height="900">
