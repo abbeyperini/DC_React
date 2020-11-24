@@ -12,8 +12,8 @@
 
 - Prompt was to connect a react app to an API and perform CRUD operations.
 
-<img src="screenshots/beerDesktop1.png" width="900" height="500">
-<img src="screenshots/beerDesktop2.png" width="900" height="500">
+<img src="screenshots/beerDesktop1.png" width="800" height="500">
+<img src="screenshots/beerDesktop2.png" width="800" height="500">
 
 **Week 10 Day 5**
 
@@ -29,5 +29,5 @@
 
 - Prompt was to create a basic to do app with Flutter.
 
-<img src="screenshots/iphoneToDo.png" width="500" height="800">
-<img src="screenshots/androidToDo.png" width="500" height="800">
+<img src="screenshots/iphoneToDo.png" width="400" height="800">
+<img src="screenshots/androidToDo.png" width="400" height="900">
