@@ -19,7 +19,7 @@
 
 - Prompt was to create a pie chart using react-minimal-pie-chart
 
-<img src="screenshots/budgetDesktop.png" width="900" height="400">
+<img src="screenshots/budgetDesktop.png" width="800" height="500">
 
 **Week 11 Day 2**
 
