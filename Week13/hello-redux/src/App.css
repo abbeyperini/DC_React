@@ -1,0 +1,22 @@
+html {
+  background-color: mintcream;
+}
+
+.App {
+  text-align: center;
+}
+
+button {
+  border-radius: 8px;
+  margin: 1%;
+  padding: 10px;
+  background-color: mistyrose;
+}
+
+input {
+  margin: 1%;
+}
+
+h1 {
+  margin-top: 2%;
+}
