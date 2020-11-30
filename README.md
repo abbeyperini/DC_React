@@ -1,6 +1,6 @@
-<h1>Week 10 - Week 13 DigitalCrafts Full-Stack Immersive</h1>
+<h1>Week 10 - Week 14 DigitalCrafts Full-Stack Immersive</h1>
 
-- Coursework on React and Redux. It contains assignments, files, and screenshots from week 10, 11, 12, and 13.
+- Coursework on React and Redux. It contains assignments, files, and screenshots from week 10, 11, 12, 13, and 14.
 
 **Week 10 Day 1**
 
@@ -31,3 +31,9 @@
 
 <img src="screenshots/iphoneToDo.png" width="400" height="800">
 <img src="screenshots/androidToDo.png" width="400" height="900">
+
+**Week 13 Day 1**
+
+- Prompt was to create a counter with Redux with increment and decrement buttons as well as a text field for adding or subtracting numbers larger than one.
+
+<img src="screenshots/reduxCounter.png" width="360" height="860">
