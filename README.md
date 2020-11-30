@@ -12,8 +12,8 @@
 
 - Prompt was to connect a react app to an API and perform CRUD operations.
 
-<img src="screenshots/beerDesktop1.png" width="800" height="600">
-<img src="screenshots/beerDesktop2.png" width="800" height="600">
+<img src="screenshots/beerDesktop1.png" width="700" height="600">
+<img src="screenshots/beerDesktop2.png" width="700" height="600">
 
 **Week 10 Day 5**
 
@@ -36,4 +36,4 @@
 
 - Prompt was to create a counter with Redux with increment and decrement buttons as well as a text field for adding or subtracting numbers larger than one.
 
-<img src="screenshots/reduxCounter.png" width="360" height="860">
+<img src="screenshots/reduxCounter.png" height="360" width="860">
